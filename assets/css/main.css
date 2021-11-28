@@ -4113,3 +4113,9 @@ body.is-loading #banner:before {
 #footer section {
     display: none
 }
+
+#banner b {
+    color: white;
+    font-weight: 900;
+    !important
+}
